@@ -57,5 +57,7 @@ const userController = {
             console.log(error)
         }
         }, 
-
 }
+
+
+module.exports = userController;
